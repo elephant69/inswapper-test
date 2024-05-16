@@ -12,8 +12,8 @@ One-click Face Swapper and Restoration powered by [insightface](https://github.c
 
 ```bash
 # git clone this repository
-git clone https://github.com/haofanwang/inswapper.git
-cd inswapper
+git clone https://github.com/elephant69/inswapper-test.git
+cd inswapper-test
 
 # create a Python venv
 python3 -m venv venv
